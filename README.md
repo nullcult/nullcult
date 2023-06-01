@@ -25,8 +25,6 @@ Here are some ideas to get you started:
 <p align= "center">
    <br><br>
    <br>
-   <img src="https://img.shields.io/github/issues/nullcult">
-   <img src="https://img.shields.io/github/issues-closed/nullcult">
    <br>
    <br>
    <img src="https://repobeats.axiom.co/api/embed/3183aa00d01f8636a5cbc17344c36168eff93aec.svg">
