@@ -17,16 +17,3 @@ Here are some ideas to get you started:
 
 <img align='right' src="https://profile-counter.glitch.me/nullcult/count.svg" width="200">
 
-
- <br>
- 
- 
- </br>
-<p align= "center">
-   <br><br>
-   <br>
-   <br>
-   <br>
-   <img src="https://repobeats.axiom.co/api/embed/3183aa00d01f8636a5cbc17344c36168eff93aec.svg">
-</p>
-
