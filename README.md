@@ -24,16 +24,16 @@ Here are some ideas to get you started:
  </br>
 <p align= "center">
    <br><br>
-   <img src="https://img.shields.io/github/languages/top/nullcult/">
-   <img src="https://img.shields.io/github/stars/nullcult/">
-   <img src="https://img.shields.io/github/forks/nullcult/">
+   <img src="https://img.shields.io/github/languages/top/nullcult">
+   <img src="https://img.shields.io/github/stars/nullcult">
+   <img src="https://img.shields.io/github/forks/nullcult">
    <br>
-   <img src="https://img.shields.io/github/last-commit/nullcult/">
-   <img src="https://img.shields.io/github/license/nullcult/">
+   <img src="https://img.shields.io/github/last-commit/nullcult">
+   <img src="https://img.shields.io/github/license/nullcult">
    <img src="https://img.shields.io/github/actions/workflow/status/nullcult/codeql.yml?branch=main">
    <br>
-   <img src="https://img.shields.io/github/issues/nullcult/">
-   <img src="https://img.shields.io/github/issues-closed/nullcult/">
+   <img src="https://img.shields.io/github/issues/nullcult">
+   <img src="https://img.shields.io/github/issues-closed/nullcult">
    <br>
    <br>
    <img src="https://repobeats.axiom.co/api/embed/3183aa00d01f8636a5cbc17344c36168eff93aec.svg">
