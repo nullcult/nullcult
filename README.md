@@ -1,7 +1,9 @@
 <!--
 **nullcult/nullcult** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-### Hi there 👋
+<h1 align="center">
+   ### Hi there 👋
+</h1>
 
 Here are some ideas to get you started:
 
@@ -14,3 +16,23 @@ Here are some ideas to get you started:
 
 
 <img align='right' src="https://profile-counter.glitch.me/nullcult/count.svg" width="200">
+
+
+
+<p align= "center">
+   <br><br>
+   <img src="https://img.shields.io/github/languages/top/nullcult/Blank-Grabber">
+   <img src="https://img.shields.io/github/stars/nullcult/Blank-Grabber">
+   <img src="https://img.shields.io/github/forks/nullcult/Blank-Grabber">
+   <br>
+   <img src="https://img.shields.io/github/last-commit/nullcult/Blank-Grabber">
+   <img src="https://img.shields.io/github/license/nullcult/Blank-Grabber">
+   <img src="https://img.shields.io/github/actions/workflow/status/nullcult/Blank-Grabber/codeql.yml?branch=main">
+   <br>
+   <img src="https://img.shields.io/github/issues/nullcult/Blank-Grabber">
+   <img src="https://img.shields.io/github/issues-closed/nullcult/Blank-Grabber">
+   <br>
+   <br>
+   <img src="https://repobeats.axiom.co/api/embed/3183aa00d01f8636a5cbc17344c36168eff93aec.svg">
+</p>
+
