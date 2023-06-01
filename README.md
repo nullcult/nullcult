@@ -18,19 +18,22 @@ Here are some ideas to get you started:
 <img align='right' src="https://profile-counter.glitch.me/nullcult/count.svg" width="200">
 
 
- <br><br>
+ <br>
+ 
+ 
+ </br>
 <p align= "center">
    <br><br>
-   <img src="https://img.shields.io/github/languages/top/nullcult/Blank-Grabber">
-   <img src="https://img.shields.io/github/stars/nullcult/Blank-Grabber">
-   <img src="https://img.shields.io/github/forks/nullcult/Blank-Grabber">
+   <img src="https://img.shields.io/github/languages/top/nullcult/">
+   <img src="https://img.shields.io/github/stars/nullcult/">
+   <img src="https://img.shields.io/github/forks/nullcult/">
    <br>
-   <img src="https://img.shields.io/github/last-commit/nullcult/Blank-Grabber">
-   <img src="https://img.shields.io/github/license/nullcult/Blank-Grabber">
-   <img src="https://img.shields.io/github/actions/workflow/status/nullcult/Blank-Grabber/codeql.yml?branch=main">
+   <img src="https://img.shields.io/github/last-commit/nullcult/">
+   <img src="https://img.shields.io/github/license/nullcult/">
+   <img src="https://img.shields.io/github/actions/workflow/status/nullcult/codeql.yml?branch=main">
    <br>
-   <img src="https://img.shields.io/github/issues/nullcult/Blank-Grabber">
-   <img src="https://img.shields.io/github/issues-closed/nullcult/Blank-Grabber">
+   <img src="https://img.shields.io/github/issues/nullcult/">
+   <img src="https://img.shields.io/github/issues-closed/nullcult/">
    <br>
    <br>
    <img src="https://repobeats.axiom.co/api/embed/3183aa00d01f8636a5cbc17344c36168eff93aec.svg">
