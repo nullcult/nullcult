@@ -3,7 +3,7 @@
 
 <h2>nullcult!</h2>
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=nullcult&show_icons=true&theme=dark" width="380">
-<p><em>5+ years penetration testing<br>
+<p><em>11+ years penetration testing<br>
   Scripting in my spare time, pwning ⚡ at work!<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
